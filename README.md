@@ -1,2 +1,2 @@
-# crust-wiki
-The source of truth for Crust
+# trust-wiki
+The source of truth for Trust
